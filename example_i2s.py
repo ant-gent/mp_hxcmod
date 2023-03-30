@@ -13,6 +13,7 @@ hxcmod = Hxcmod()
 
 hxcmod.load(mod_data)
 
+# pin assignment for the Pimoroni pico demo board
 SCK_PIN = 27
 WS_PIN = 28
 SD_PIN = 26
